@@ -14,7 +14,7 @@ class MyProg
             }
             else if(a==b)
             {
-                Console.WriteLine("New Tests");
+                Console.WriteLine("New Tests and latest");
                 
                 Console.WriteLine("Value of a and b are same");
                 Console.ReadKey();
